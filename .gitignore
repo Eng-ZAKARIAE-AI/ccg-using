@@ -1,0 +1,14 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.codeoss/
+.config/
+.docker/
+.gemini/
+.npm/
+.profile
+.ssh/
+.sudo_as_admin_successful
+.vscode/
+README-cloudshell.txt
